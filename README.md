@@ -1,2 +1,2 @@
 # AgenticAI
-Magic of AI interacting with AI
+Magic of AI 
